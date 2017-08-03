@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\DevelTools\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Android\Androidlessons\p0061layouts\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_38d3460b95e504764b2ac7c75be679a7738b97ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lana\.android\build-cache\066751fb26f391cf90839a3f388c64e9117e00be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android\Androidlessons\p0061layouts\build\intermediates\pre-dexed\debug\classes_b2779c54fb22444f81865161e08d017538b85b1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lana\.android\build-cache\5bfe1137a401bd1449827ecce6e386aaf7684f5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Android\Androidlessons\p0061layouts\build\intermediates\pre-dexed\debug\classes_338c73eba145439788d28300f67d42cfaf8c111b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DevelTools\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Android\Androidlessons\p0061layouts\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_f686345a7fc3ae2b7d27dfdd7bc783575463f829.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Androidlessons\p0180constraintlayoutintro\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b4c1bc1f80f3c77fb757cffb0486b3e089918806">
+        <dex dex="D:\Android\Androidlessons\p0180constraintlayoutintro\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0941eedad4dc44b076ed2f39e2e4dad45298ea55\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lana\.android\build-cache\49e3aa83113316a5d081b74b28aa48532a62ed80\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Android\Androidlessons\p0061layouts\build\intermediates\pre-dexed\debug\classes_43fef3b16b740f178c6c26480ed09feeaeb941c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lana\.android\build-cache\dc54c6147ce0e90509572b609fbcb46e5bcda20a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Android\Androidlessons\p0061layouts\build\intermediates\pre-dexed\debug\classes_76b0d4e55f251bb92bafe44f711ee778f61a1284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lana\.android\build-cache\9c4c711425e8f54c028f4848de8a1b079cac0fcb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Android\Androidlessons\p0061layouts\build\intermediates\pre-dexed\debug\classes_7b6f1c4a7966c86890d838b242e10b553da5cd06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lana\.android\build-cache\d030461d874176a1e9886683e4f09db00af6ab71\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Android\Androidlessons\p0061layouts\build\intermediates\pre-dexed\debug\classes_95320b68c8dc14434a058796038ab8508de2a0d8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Androidlessons\p0180constraintlayoutintro\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Android\Androidlessons\p0180constraintlayoutintro\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e20654c088d9417210ab6023e5a7ea9ea8d72101\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lana\.android\build-cache\1987fee9b011a201965963ca366615cd85d49eea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Android\Androidlessons\p0061layouts\build\intermediates\pre-dexed\debug\classes_df7124fb1178fe196459b7b310568473a0380326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lana\.android\build-cache\1e46cab0aa0fe994ea6c31ea3b2ae0c0c60cb77f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Android\Androidlessons\p0061layouts\build\intermediates\pre-dexed\debug\classes_57c920fca33fcab6eb4b793c27e1684b5f596db1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lana\.android\build-cache\46c9c219cda3877f424d56b6c62a724a0e3d2e65\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Android\Androidlessons\p0061layouts\build\intermediates\pre-dexed\debug\classes_e787ef1d4c661009397c0ea78c3d850c92715acf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lana\.android\build-cache\c5df2107c7cff87648ce2d0fa7f873a93b3649ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Android\Androidlessons\p0061layouts\build\intermediates\pre-dexed\debug\classes_9a3ff6ef3e19df0b432226997a10732d43b890f7.jar" />
+    </item>
+
+</items>

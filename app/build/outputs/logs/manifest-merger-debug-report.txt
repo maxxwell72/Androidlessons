@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Lana\.android\build-cache\49e3aa83113316a5d081b74b28aa48532a62ed80\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Lana\.android\build-cache\066751fb26f391cf90839a3f388c64e9117e00be\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Lana\.android\build-cache\dc54c6147ce0e90509572b609fbcb46e5bcda20a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Lana\.android\build-cache\d030461d874176a1e9886683e4f09db00af6ab71\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Lana\.android\build-cache\1e46cab0aa0fe994ea6c31ea3b2ae0c0c60cb77f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Lana\.android\build-cache\46c9c219cda3877f424d56b6c62a724a0e3d2e65\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Lana\.android\build-cache\9c4c711425e8f54c028f4848de8a1b079cac0fcb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Lana\.android\build-cache\c5df2107c7cff87648ce2d0fa7f873a93b3649ad\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Lana\.android\build-cache\5bfe1137a401bd1449827ecce6e386aaf7684f5c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lana\.android\build-cache\1987fee9b011a201965963ca366615cd85d49eea\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml:11:9-40
+activity#ru.startandroid.androidlessons.MainActivity
+ADDED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Lana\.android\build-cache\49e3aa83113316a5d081b74b28aa48532a62ed80\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Lana\.android\build-cache\066751fb26f391cf90839a3f388c64e9117e00be\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Lana\.android\build-cache\dc54c6147ce0e90509572b609fbcb46e5bcda20a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Lana\.android\build-cache\d030461d874176a1e9886683e4f09db00af6ab71\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Lana\.android\build-cache\1e46cab0aa0fe994ea6c31ea3b2ae0c0c60cb77f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Lana\.android\build-cache\46c9c219cda3877f424d56b6c62a724a0e3d2e65\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Lana\.android\build-cache\9c4c711425e8f54c028f4848de8a1b079cac0fcb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Lana\.android\build-cache\c5df2107c7cff87648ce2d0fa7f873a93b3649ad\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Lana\.android\build-cache\5bfe1137a401bd1449827ecce6e386aaf7684f5c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lana\.android\build-cache\1987fee9b011a201965963ca366615cd85d49eea\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Lana\.android\build-cache\49e3aa83113316a5d081b74b28aa48532a62ed80\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Androidlessons\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Lana\.android\build-cache\49e3aa83113316a5d081b74b28aa48532a62ed80\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Lana\.android\build-cache\066751fb26f391cf90839a3f388c64e9117e00be\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Lana\.android\build-cache\dc54c6147ce0e90509572b609fbcb46e5bcda20a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Lana\.android\build-cache\d030461d874176a1e9886683e4f09db00af6ab71\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Lana\.android\build-cache\1e46cab0aa0fe994ea6c31ea3b2ae0c0c60cb77f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Lana\.android\build-cache\46c9c219cda3877f424d56b6c62a724a0e3d2e65\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Lana\.android\build-cache\9c4c711425e8f54c028f4848de8a1b079cac0fcb\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Lana\.android\build-cache\c5df2107c7cff87648ce2d0fa7f873a93b3649ad\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Lana\.android\build-cache\5bfe1137a401bd1449827ecce6e386aaf7684f5c\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Lana\.android\build-cache\49e3aa83113316a5d081b74b28aa48532a62ed80\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Lana\.android\build-cache\49e3aa83113316a5d081b74b28aa48532a62ed80\output\AndroidManifest.xml:26:9-47

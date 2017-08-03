@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="77dp"
+            android:layout_height="wrap_content"
+            android:text="Butt" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+        <!--
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="77dp"
+            android:layout_height="wrap_content"
+            android:text="butt" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="77dp"
+            android:layout_height="wrap_content"
+            android:text="Butt" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="77dp"
+            android:layout_height="wrap_content"
+            android:text="Butt" />
+        -->
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="77dp"
+            android:layout_height="wrap_content"
+            android:text="Butt" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+        <!--
+
+                <Button
+                    android:id="@+id/button6"
+                    android:layout_width="77dp"
+                    android:layout_height="wrap_content"
+                    android:text="butt" />
+
+                <Button
+                    android:id="@+id/button7"
+                    android:layout_width="77dp"
+                    android:layout_height="wrap_content"
+                    android:text="Butt" />
+
+            <Button
+                android:id="@+id/button8"
+                android:layout_width="77dp"
+                android:layout_height="wrap_content"
+                android:text="Butt" />
+        -->
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+        <Button
+            android:id="@+id/button9"
+            android:layout_width="77dp"
+            android:layout_height="wrap_content"
+            android:text="Butt" />
+
+        <!--
+            <Button
+                android:id="@+id/button10"
+                android:layout_width="77dp"
+                android:layout_height="wrap_content"
+                android:text="Butt" />
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+            <Button
+                android:id="@+id/button11"
+                android:layout_width="77dp"
+                android:layout_height="wrap_content"
+                android:text="Butt" />
+        -->
+    </TableRow>
+
+        <Button
+            android:id="@+id/button20"
+            android:layout_width="77dp"
+            android:layout_height="wrap_content"
+            android:text="Большая кнопка" />
+
+</TableLayout>
